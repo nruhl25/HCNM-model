@@ -1,6 +1,6 @@
 This repository contains examples of code written by Nathaniel Ruhl for the Horizon Crossing Navigational Method (HCNM).
 
-The folder "analytical_HCNM" contains a couple scripts in which I create a simplified two-dimensional horizon crossing. I built this model in order to improve my numerical methods of "integrating the telescopic line of sight", as the simplified "two-dimensional" horizon crossing provides insight into the full procedure for a three-dimensional horizon crossing. This is just the beginning of a project that I continued in a computational physics class at Haverford College. 
+The directory "HorizonCrossingModel" contains code that I wrote for a final project in a computational physics class at Haverford College. In this project, I built a simplified, semi-analytical "toy model" that provides insight into the numerical methods involved in the full analysis of a horizon crossing ([Ruhl et. al., 2022](https://drive.google.com/file/d/1CyGdmpl5s5cof4TH3svCVJ63uJd-CwQ6/view?usp=sharing)).
 
 "HCNM_orbital_velocity.py" is a quick simulation to evaluate how HCNM is affected by an innaccurate input orbital velocity. This script is from the full HCNM code and will not run by itself.
 
